@@ -13,7 +13,7 @@ const zasoby = [
   { nazev: '🍓 jahody',    typ: 'ovoce',    pocet: 12, trvanlivost: 7   },
   { nazev: '🥕 mrkev',     typ: 'zelenina', pocet: 7,  trvanlivost: 40  },
   { nazev: '🧀 sýr',       typ: 'sýr',      pocet: 2,  trvanlivost: 10  },
-  { nazev: '🍗 kuřecí',    typ: 'maso',     pocet: 4,  trvanlivost: 4   },
+  { nazev: '🍗 mrkev',    typ: 'maso',     pocet: 4,  trvanlivost: 4   },
 ];
 
 // Úkoly:
