@@ -20,3 +20,13 @@ const zviratka = [
   { jmeno: '🐱 Fousek',   vek: 4, druh: 'kočka' },
   { jmeno: '🐶 Špagetka', vek: 2, druh: 'pes' }
 ];
+
+
+
+const array = zviratka.filter((item) => {
+  return item.vek > 2;
+}).map((item) => {
+  return `${item.jmeno}`
+})
+
+console.log(array)
